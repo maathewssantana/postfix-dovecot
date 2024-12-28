@@ -13,8 +13,6 @@
 
 # Execução 🚀
 
-O texto fornecido descreve um cenário de configuração de um servidor de e-mails utilizando Postfix como servidor SMTP e Dovecot como servidor IMAP, com clientes de e-mail Thunderbird. Aqui estão os principais pontos abordados:
-
 ### Configuração do Servidor SMTP (Postfix)
 1. **Instalação**: 
    - Comando: `sudo apt-get install postfix`
