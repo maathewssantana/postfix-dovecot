@@ -10,6 +10,11 @@
 
 ![cenário](https://github.com/user-attachments/assets/edbde7bc-bbc1-4a89-b8ce-6077e267ff0e)
 
+Realizado:
+
+![postfix](https://github.com/user-attachments/assets/fd9d9d53-429d-4b5f-8730-dba4120059ee)
+
+
 
 # Execução 🚀
 
