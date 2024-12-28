@@ -1,4 +1,4 @@
-# Criado um servidor de e-mail 🖥️
+# Servidor de e-mail 🖥️
 
 ## Prática 🥼
 
